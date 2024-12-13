@@ -22,7 +22,7 @@ Learning Management Systems in education offers a smart alternative to education
 Follownig Teachnology we are using in our project.
 
 - [Programming Language] - Java
-- [Database ] - Postgre
+- [Database] - Postgres
 - [Localhost server] - Tomcat 10
 - [Frontend] - Html, Css, Bootstrap ,JSP 
 - [Serverside teachnology] - java servlets using MVS Pattern
